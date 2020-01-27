@@ -66,3 +66,20 @@ auth_blueprint.add_url_rule(
     view_func=registration_view,
     methods=['POST', 'GET']
 )
+
+
+@auth_blueprint.route("/users/index")
+def displayUsers():
+    #records = db.session.query(User).all()
+    #s = ""
+    #for record in records:
+        #s += (str)(record.query.filter(User.email).all())
+    
+    #s = ""
+    #for x in User.email:
+        #s += str(x)
+    
+    s = ""
+    for ct in range(User.query.count()):
+        s += User.query.filter_by().all()[ct].email + "\n"
+    return s
