@@ -3,6 +3,7 @@ Link to backend: https://pockysauce-api-heroku.herokuapp.com/users/index
 
 
 I, Jun Hao Lei, confirm that I have read and understood the syllabus outlined at https://cs-people.bu.edu/dharmesh/teaching/cs591_sp20.
+BUID: U60583314
 
 References Used and Reference Code:
 https://kite.com/python/docs/sqlalchemy.orm.query.Query.filter_by
