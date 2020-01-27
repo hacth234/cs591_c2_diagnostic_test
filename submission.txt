@@ -1,5 +1,5 @@
-github rep:https://github.com/hacth234/cs591_c2_diagnostic_test.git
-Link to backend:https://pockysauce-api-heroku.herokuapp.com/
+github rep: https://github.com/hacth234/cs591_c2_diagnostic_test.git
+Link to backend: https://pockysauce-api-heroku.herokuapp.com/users/index
 
 
 I, Jun Hao Lei, confirm that I have read and understood the syllabus outlined at https://cs-people.bu.edu/dharmesh/teaching/cs591_sp20.
